@@ -34,8 +34,8 @@ Client (UI / Chat)
         v
 LLM Service (Orchestrator)
         |
-        +--> Cases API
+        +--> Accounts API
         +--> Users API
-        +--> Statements API
-        +--> Reports API
+        +--> Rewards API
+        +--> Cards API
 
